@@ -17,5 +17,14 @@
         "path": "./themes/Gemini Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "galleryBanner": {
+    "color": "#0a1128",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniciusram2025/Gemini-Theme"
+  },
+  "homepage": "https://github.com/viniciusram2025/Gemini-Theme/blob/main/README.md"
 }
