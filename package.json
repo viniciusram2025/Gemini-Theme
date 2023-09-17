@@ -3,6 +3,7 @@
   "displayName": "Gemini Theme",
   "description": "Devido a eu nunca conseguir encontrar um tema que eu gostasse, decidi fazer o meu proprio Theme, inspirado no signo de Gemeos.",
   "version": "0.0.1",
+  "publisher": "CodeGemini",
   "engines": {
     "vscode": "^1.82.0"
   },
