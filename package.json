@@ -1,0 +1,21 @@
+{
+  "name": "gemini-theme",
+  "displayName": "Gemini Theme",
+  "description": "Devido a eu nunca conseguir encontrar um tema que eu gostasse, decidi fazer o meu proprio Theme, inspirado no signo de Gemeos.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gemini Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gemini Theme-color-theme.json"
+      }
+    ]
+  }
+}
